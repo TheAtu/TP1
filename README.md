@@ -9,7 +9,7 @@
  - Felicitas Trinidad Guerrero Ponzo
  - Julian Vergara
 
-#El trabajo contiene dos partes:
+# El trabajo contiene dos partes:
  1. Busca repasar lo que aprendimos
  2. Trabaja con la API de Mercado Libre
  
