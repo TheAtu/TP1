@@ -1,10 +1,10 @@
 # Trabajo Practico 1 
 ## Big Data - Otoño 2023 
 
-#### Profesoras:
+### Profesoras:
  - Maria Noelia Romero
  - Victoria Oubiña
-#### Integrantes:
+### Integrantes:
  - Alfonso Sundblad
  - Felicitas Trinidad Guerrero Ponzo
  - Julian Vergara
